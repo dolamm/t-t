@@ -1,0 +1,36 @@
+p{
+    color:blueviolet;
+    font-size: 30px;
+    text-indent:-5;
+    text-shadow: -1px -3px blue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#header{
+    background:rgb(21, 192, 214);
+    color:blue;
+    font-size:170%;
+    text-align: left;
+    border-style:double;
+    background-image: url("");
+    background-size: auto;
+    width:30cm;
+}
+nav{
+    display:list-item;
+}
+h2{
+    font-size: larger;
+    color:darksalmon;
+}
+.login{
+    background:rgb(99, 233, 188);
+    position:relative;
+    border-radius:10px;
+    float:right;
+    font-size: small;
+    width:300px;
+}
+.login button{
+    background-color: chartreuse;
+    border-radius: 50%;
+}
