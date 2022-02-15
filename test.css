@@ -42,3 +42,8 @@ h2{
     line-height: 40px;
     margin-left: -5px;
   }
+
+.main-nav li {
+    text-decoration: none;
+    text-align: center;
+}
